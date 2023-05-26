@@ -1,20 +1,16 @@
 {
-  "name": "mock4-backend",
+  "name": "mock-5",
   "version": "1.0.0",
   "description": "",
+  "main": "server.js",
   "scripts": {
-    "build": "echo \"No build specified\" && exit 1",
-    "test": "echo \"No test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/arun24hrs/mock4-backend.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/arun24hrs/mock4-backend/issues"
-  },
-  "homepage": "https://github.com/arun24hrs/mock4-backend#readme"
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
 }
