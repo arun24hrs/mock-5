@@ -1,4 +1,4 @@
-[
+{"freelancers":[
     {
       "name": "Rahul",
       "profile_picture": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
@@ -69,19 +69,5 @@
       "hourly_rate": "5",
       "isBooked": false,
       "id": 5
-    },
-    {
-      "name": "Vivek",
-      "profile_picture": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
-      "email": "vik@gmail.com",
-      "password": "vik",
-      "profession": "Student",
-      "skills": [
-        "MS office",
-        " Google docs"
-      ],
-      "hourly_rate": "5",
-      "isBooked": false,
-      "id": 6
     }
-  ]
+  ]}
