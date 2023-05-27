@@ -1,11 +1,3 @@
 {
-  "patients": [
-    {
-      "username": "arun",
-      "email": "arun@gmail.com",
-      "password": "asfasfas",
-      "isDoc": true
-    }
-  ],
-  "appointment": []
+  "freelancers": []
 }
