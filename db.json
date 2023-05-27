@@ -1,3 +1,87 @@
-{
-  "freelancers": []
-}
+[
+    {
+      "name": "Rahul",
+      "profile_picture": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "email": "2017@gmail.com",
+      "password": "2017",
+      "profession": "Graphics Designer",
+      "skills": [
+        "Photoshop",
+        " Canva"
+      ],
+      "hourly_rate": "12",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "Madan",
+      "profile_picture": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "email": "madan@gmail.com",
+      "password": "mad",
+      "profession": "Graphics Designer",
+      "skills": [
+        "Photoshop",
+        " Canva"
+      ],
+      "hourly_rate": "12",
+      "isBooked": false,
+      "id": 2
+    },
+    {
+      "name": "Arun",
+      "profile_picture": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        " CSS",
+        " JS"
+      ],
+      "hourly_rate": "8",
+      "isBooked": false,
+      "id": 3
+    },
+    {
+        "name": "Vivek",
+      "profile_picture": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "email": "vik@gmail.com",
+      "password": "vik",
+      "profession": "Student",
+      "skills": [
+        "MS office",
+        " Google docs"
+      ],
+      "hourly_rate": "5",
+      "isBooked": false,
+      "id": 4
+    },
+    {
+        "name": "Vivek",
+      "profile_picture": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "email": "vik@gmail.com",
+      "password": "vik",
+      "profession": "Student",
+      "skills": [
+        "MS office",
+        " Google docs"
+      ],
+      "hourly_rate": "5",
+      "isBooked": false,
+      "id": 5
+    },
+    {
+      "name": "Vivek",
+      "profile_picture": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+      "email": "vik@gmail.com",
+      "password": "vik",
+      "profession": "Student",
+      "skills": [
+        "MS office",
+        " Google docs"
+      ],
+      "hourly_rate": "5",
+      "isBooked": false,
+      "id": 6
+    }
+  ]
